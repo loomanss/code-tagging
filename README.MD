@@ -1,6 +1,6 @@
 ---
 title: "readme.md"
-author: "sloomans"
+author: "loomanss"
 date: "2021-02-14"
 status : "development"
 ---
@@ -79,21 +79,21 @@ https://canadiancoding.ca/posts/post/python/codetags/
 [source](https://raw.githubusercontent.com/jbgutierrez/vim-better-comments/master/images/screenshoot.gif)
 
 ###  markdown - yml
-
-```
+```bash
 #
-#```yml
+#` ` `yml
 #  - DOCUMENT: this files 
 #  - TODO: Come up with full list of class attributes
 #  - REQ: Store user information such as name, birthday, city etc.
 #  - Arguments:
 #  - name(str): The name of the user. NOTE: Name implies first name, not necessarily full name
-#```
+#` ` `
 ```
 
 
 
 ###   ansible tags in document
+```
 #```ýml
 #- name: Copy file with owner and permissions
 #  ansible.builtin.copy:
@@ -103,3 +103,4 @@ https://canadiancoding.ca/posts/post/python/codetags/
 #    group: foo
 #    mode: '0644'
 # ```
+```
