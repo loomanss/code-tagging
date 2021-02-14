@@ -1,6 +1,6 @@
 ---
 title: "readme.md"
-author: "sloomans
+author: "sloomans"
 date: "2021-02-14"
 status : "development"
 ---
@@ -40,13 +40,13 @@ author: "ekoam"
 date: "`r Sys.Date()`"
 output: html_document
 ---
-```bash
+```
 
 
 ## code tagging in python : pep-0350
 https://www.python.org/dev/peps/pep-0350/
 https://canadiancoding.ca/posts/post/python/codetags/
-```
+```bash
 # NOTE: A general note/mild warning
 # HACK: Temporary solution to a problem, to be properly solved later
 # PORT: An OS/Platform specific workaround
