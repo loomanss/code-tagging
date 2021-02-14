@@ -76,7 +76,7 @@ https://canadiancoding.ca/posts/post/python/codetags/
 **/
 ```
 
-[](https://raw.githubusercontent.com/jbgutierrez/vim-better-comments/master/images/screenshoot.gif)
+[source](https://raw.githubusercontent.com/jbgutierrez/vim-better-comments/master/images/screenshoot.gif)
 
 ###  markdown - yml
 
